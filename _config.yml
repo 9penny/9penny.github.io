@@ -52,8 +52,11 @@ footer-text: Copyright (c) 2021 9penny
 disqus: # fromendworld
 
 # Gitalk
-#gitalk:
-# clientID:9penny
+gitalk:
+ clientID: b2becf1f0b3884f4a86e
+ clientSecrets: 71ae446fbf9eb41496e85382c0ed39aa8c640b30
+ repo: 9penny.github.io
+ owner: 9penny
  
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
